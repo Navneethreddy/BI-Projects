@@ -5,11 +5,11 @@ Aim of the Project: The aim of the project is to monitor perfomance of a Banks T
 
 Project Overview:
 
- a) Using data from campaign metrics and consumer demographics, the dashboards will show subscriber statistics.
- 
- b) The conclusions drawn from the dashboard cannot be used to make campaign decisions at a high level, but rather to postulate for further investigation.
+a) Using data from campaign metrics and consumer demographics, the dashboards will show subscriber statistics.
 
-3) Supply Chain Tracker
+b) The conclusions drawn from the dashboard cannot be used to make campaign decisions at a high level, but rather to postulate for further investigation.
+
+2) Supply Chain Tracker
 The project involves leveraging a practical dataset in the realm of supply chain analytics to address critical issues related to shipment and inventory management. As the primary data analyst
 at Stratcap, your responsibilities include tackling challenges within the supply chain, identifying inefficiencies, and developing informative dashboards. Through your analysis, you aim to
 provide valuable insights to business stakeholders, highlighting potential issues, and recommending strategic improvements to enhance overall operational efficiency.
