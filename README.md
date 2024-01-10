@@ -29,3 +29,6 @@ distribution operations to customers
 Result: Comprehensive dashboard displaying overall business performance metrics such as sales, profit, orders, customers, and top-performing products. Dashboard for inventory
 management, including warehouse inventory, customer orders, and storage costs. Dashboard for shipping management, offering insights into orders, locations, timing, and any shipping
 delays.
+
+C)Water Utilization Analysis
+The Project was taken to get a visual understanding of how the world population is using the available water sources in terms of long-term sustainability.
